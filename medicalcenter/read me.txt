@@ -1,0 +1,3 @@
+Program mostly doesn't work
+run dist/medicalcenter.jar file to run program
+net beans also can be used

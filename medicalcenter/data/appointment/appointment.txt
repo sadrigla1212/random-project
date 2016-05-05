@@ -1,0 +1,4 @@
+2 100 5 2016-04-08 8:00 1 80 Skauda danti
+1 100 5 2016-04-14 12:00 1 50 Luzo ranka
+4 102 5 2026-02-08 12:00 0 null fdgdfgd
+3 100 5 2026-02-14 8:00 1 dfgdfg luzo ranka
